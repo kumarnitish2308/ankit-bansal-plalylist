@@ -1,1 +1,1 @@
-# ankit-bansal-plalylist
+Solution to the Ankit Bansal SQL Playlist. 
