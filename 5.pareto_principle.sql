@@ -4,7 +4,7 @@
 -- table schema: uploaded csv to mysql(use description of the link above to download the file)
 /*
 Find out the product which contributes to the 80% of the sales
-*\
+*/
 -- Solution 1
 with product_sales as(
 select 
