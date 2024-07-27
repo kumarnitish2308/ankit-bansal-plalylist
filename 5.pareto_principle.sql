@@ -23,5 +23,5 @@ select
     0.8*sum(total_sales) over() as sales_80
 from product_sales
 )
-select count(*) from run_over_sales
+select product_id from run_over_sales
 where running_sales <= sales_80;
