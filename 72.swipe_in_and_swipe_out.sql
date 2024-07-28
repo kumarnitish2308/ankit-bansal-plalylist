@@ -1,5 +1,5 @@
--- 1) Points table
--- 🔗 https://youtu.be/qyAgWL066Vo?si=pGgQOlc6f88J7Anb
+-- 72 Swipe in and swipe out
+-- 🔗 https://youtu.be/Jo2Ra41QQcU?si=GDkGYSOLzJL3LIR0
 
 -- table schema
 CREATE TABLE swipe (

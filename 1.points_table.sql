@@ -1,4 +1,4 @@
--- 1) Points table
+-- 1 Points table
 -- 🔗 https://youtu.be/qyAgWL066Vo?si=pGgQOlc6f88J7Anb
 
 -- table schema

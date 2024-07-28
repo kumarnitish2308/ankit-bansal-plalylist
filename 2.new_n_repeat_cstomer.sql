@@ -60,7 +60,7 @@ select
     sum(case when rnk = 1 then 1 else 0 end) as new_customer,
     sum(case when rnk > 1 then 1 else 0 end) as repeat_customer
 from ranked_base
-group by order_date
+group by order_date;
 
 
 

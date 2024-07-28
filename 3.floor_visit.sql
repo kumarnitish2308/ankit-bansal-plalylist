@@ -1,4 +1,4 @@
--- 2 New and repeat customer
+-- 3 Floor visit
 -- 🔗 https://youtu.be/P6kNMyqKD0A?si=54TeuORa-xTRVNsG
 
 -- table schema

@@ -1,4 +1,4 @@
--- 1) Pareto principle
+-- 5 Pareto principle
 -- 🔗 https://youtu.be/oGgE180oaTs?si=SNpkWjJHQbX616Fr
 
 -- table schema: uploaded csv to mysql(use description of the link above to download the file)
