@@ -28,7 +28,7 @@ Benefits of Churn Analysis:
     4. Targeted Marketing: Identifying at-risk customers allows for personalized marketing efforts to re-engage them.
 */
 
--- 14 customer churn Analysis part 1
+-- 15 customer churn Analysis part 1
 -- 🔗 https://youtu.be/6hfsRqmyvog?si=_SsjHbsg5fiZJzlv
 
 -- table schema
