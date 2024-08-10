@@ -50,6 +50,3 @@ select a.store, a.quarter from all_combination a
 left join stores s on s.store = a.store and a.quarter = s.quarter
 where s.store is null
 order by store;
-
-select distinct s1.store, s2.quarter from stores s1, stores s2
-order by s1.store
