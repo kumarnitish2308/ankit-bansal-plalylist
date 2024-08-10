@@ -1,5 +1,5 @@
 -- 20 Consecutive empty seats
--- 🔗 https://youtu.be/F9Otofceer0?si=zFaIRcJzcxkk7roM
+-- 🔗 https://youtu.be/F9Otofceer0?si=ivrD52NLeBAtBAZ0
 
 -- table schema
 
