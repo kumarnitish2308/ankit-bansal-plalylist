@@ -20,6 +20,8 @@ values
 ('S3', 'Q2', 750),
 ('S3', 'Q3', 900);
 
+-- Find missing quarter for each store
+
 -- Solution 1
 select store, concat('Q',(10 - sum(cast(right(quarter,1) as unsigned)))) as missing_quarter
 from stores
