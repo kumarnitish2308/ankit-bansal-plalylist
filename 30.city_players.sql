@@ -1,7 +1,7 @@
 -- 29 Find players in each city
--- 🔗 https://youtu.be/e-I9SxbLky8?si=t0GN3tK40qyKgp4B
--- table schema
+-- 🔗 https://youtu.be/e-I9SxbLky8?si=VbBwImt1_gh8uXhj
 
+-- table schema
 
 create table players_location
 (
