@@ -1,4 +1,4 @@
--- 29 Find players in each city
+-- 30 Find players in each city
 -- 🔗 https://youtu.be/e-I9SxbLky8?si=VbBwImt1_gh8uXhj
 
 -- table schema
