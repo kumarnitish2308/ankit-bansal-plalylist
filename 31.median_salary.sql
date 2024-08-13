@@ -30,6 +30,8 @@ values
 (16, 'C', 2652),
 (17, 'C', 65);
 
+-- Find median salary of employee without using any inbuilt function for median
+
 -- Solution 1
 with computed as(
 select 
