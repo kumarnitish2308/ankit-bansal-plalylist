@@ -1,4 +1,4 @@
--- 31 Third highest salary with a twist 
+-- 32 Third highest salary with a twist 
 -- 🔗 https://youtu.be/Cbm6Hz_Yhwg?si=GVe-hEptokvP4gqk
 
 -- table schema

@@ -1,4 +1,4 @@
--- 31 Human traffic of stadium
+-- 33 Human traffic of stadium
 -- 🔗 https://youtu.be/tDfAo7uw-3w?si=xQizRzr12H0nQQX6
 
 -- table schema

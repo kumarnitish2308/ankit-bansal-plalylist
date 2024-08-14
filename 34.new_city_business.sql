@@ -1,4 +1,4 @@
--- 31 New city business
+-- 34 New city business
 -- 🔗 https://youtu.be/y-CeVtidYJE?si=bfpiKwjoeNHqwjFg
 
 -- table schema
