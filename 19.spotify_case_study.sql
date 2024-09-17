@@ -1,4 +1,4 @@
--- 18 Spotify case study
+-- 19 Spotify case study
 -- 🔗 https://youtu.be/-YdAIMjHZrM?si=g4yLLfPXLbIau0tz
 
 -- table schema

@@ -52,3 +52,4 @@ select a.store, a.quarter from all_combination a
 left join stores s on s.store = a.store and a.quarter = s.quarter
 where s.store is null
 order by store;
+
